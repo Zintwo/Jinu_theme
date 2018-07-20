@@ -4,4 +4,6 @@
 	 */
 get_header(); ?>
 
+안녕
+
 <?php get_footer(); ?>
