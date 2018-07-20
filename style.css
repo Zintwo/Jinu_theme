@@ -40,7 +40,10 @@ html {
 	box-sizing: inherit;
 }
 body {
-	background: #f1f1f1;
+	font-family:'Montserrat', "Nanum Barun Gothic", '맑은 고딕', sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	color:#555b66;
 }
 article,
 aside,
