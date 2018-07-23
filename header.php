@@ -4,6 +4,7 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0">
+	<meta name="theme-color" content="#5b5b5b">
 	<?php wp_head(); ?>
 </head>
 
